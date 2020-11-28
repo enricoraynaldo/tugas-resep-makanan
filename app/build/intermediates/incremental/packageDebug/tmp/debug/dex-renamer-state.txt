@@ -1,0 +1,7 @@
+#Fri Nov 27 13:01:12 ICT 2020
+base.0=E\:\\Kuliah\\Semester 7\\Prak. Mobile Programing\\Tugas 2\\ResepMakanan\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Kuliah\\Semester 7\\Prak. Mobile Programing\\Tugas 2\\ResepMakanan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
